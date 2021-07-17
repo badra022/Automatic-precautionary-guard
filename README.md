@@ -22,16 +22,20 @@ the system deals with temperature and humidity adjustments to prevent spread of 
 ## face mask detection samples
 
 
-<img align="middle" src="screenshots/Screenshot (157).png">
-<img align="middle" src="screenshots/Screenshot (158).png">
-<img align="middle" src="screenshots/Screenshot (159).png">
-<img align="middle" src="screenshots/Screenshot (160).png">
-<img align="middle" src="screenshots/Screenshot (161).png">
-<img align="middle" src="screenshots/Screenshot (162).png">
-<img align="middle" src="screenshots/Screenshot (163).png">
-<img align="middle" src="screenshots/Screenshot (164).png">
+<img align="center" src="screenshots/Screenshot (157).png">
+<img align="center" src="screenshots/Screenshot (158).png">
+<img align="center" src="screenshots/Screenshot (159).png">
+<img align="center" src="screenshots/Screenshot (160).png">
+<img align="center" src="screenshots/Screenshot (161).png">
+<img align="center" src="screenshots/Screenshot (162).png">
+<img align="center" src="screenshots/Screenshot (163).png">
+<img align="center" src="screenshots/Screenshot (164).png">
+
+
+### link for software showcast: <a>https://drive.google.com/file/d/1IthRsf4fhXfDT_NlPmKvrgD291VcVZIc/view?usp=sharing</a>
+
 
 ## simulation of the embedded system
 
 
-<img align="middle" src="screenshots/Screenshot (171).png">
+<img align="center" src="screenshots/Screenshot (171).png">
